@@ -1,0 +1,4 @@
+ZFER AFER Channel Zp  Ap  Zt  At   Beam_Energy(MeV)  cross-section(ub)  Ecross-section(ub)  Facility  Cf  Af/An
+# Updata at 2022-03-07
+82   187   p5n    24  50  60  142   250   250     0.0      SHIP     0.67    0.0
+83   188   p5n    24  50  60  142   250   4     0.0      SHIP     0.67    0.0
